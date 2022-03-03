@@ -1,3 +1,4 @@
+#include <cmath>
 #include <cstddef>
 #include <functional>
 #include <iterator>
@@ -8,7 +9,6 @@
 #include <utility>
 #include <gtest/gtest.h>
 #include <entt/container/dense_map.hpp>
-#include <entt/core/iterator.hpp>
 #include <entt/core/memory.hpp>
 #include <entt/core/utility.hpp>
 #include "../common/config.h"
